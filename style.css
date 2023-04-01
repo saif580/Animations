@@ -24,8 +24,8 @@ a:before{
     height: 100%;
     width: 100%;
     z-index: -1;
-    transform-origin: bottom left;
-    transform: rotate(-90deg);
+    transform-origin: top right;
+    transform: rotate(90deg);
     transition: transform 1s;
 }
 
